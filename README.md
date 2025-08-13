@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 coming soon...
 
+**IBM Consulting**
+- ...
+
+**RELEX Solutions**
+- ...
+
+**German Cancer Research Center**
+- ...
+
 ### 🛠️ Tech Stack
 
 | Category              | Tools / Technologies |
