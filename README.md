@@ -38,7 +38,7 @@ coming soon...
 | **Cloud Platforms**   | Microsoft Azure, IBM Cloud, AWS (exploring) |
 | **Languages**         | Python, Bash, GoLang (exploring) |
 | **GenAI**             | Azure OpenAI, IBM watsonx.ai |
-| **ML & Data Science** | Azure OpenAI, IBM watsonx.ai |
+| **ML & Data Science** | scikit-learn, PyTorch |
 | **Backend**           | Python, FastAPI, REST APIs |
 | **Infrastructure**    | Terraform, OpenShift |
 | **DevOps & CI/CD**    | Docker, Kubernetes, GitLab, Azure DevOps |
