@@ -49,7 +49,7 @@ When I’m not in front of a terminal, you’ll probably find me:
 
 - Exploring Swiss trails & dragging myself up the mountains 🏔️
 - Training for my half marathons and (hopefully soon) triathlons 🏊‍♂️
-- Sipping coffee or vino in Zürich
+- Sipping coffee or vino in the streets of Zürich
 - Trying to keep my 🇪🇸 skills alive
 - Travelling around Europe
 
